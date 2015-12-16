@@ -1,6 +1,6 @@
 # minggeJS
 
-Since the awesome screenshot plugin **shearkhoto**, I started an new copy of JQUERY which is made by Chinese. Why I started this? Frankly speaking, I had never use jQUERY before because I hate JQUERY badly. What is the reason of that? Because I am absolutely able to build such a damn library and fully realize the technical detail in jQUERY. But JQUERY is a giant of Front-End and has a huge number of believers, which inspired me and brought an idea — How about start an new one JQUERY that using my mind. After the idea came out, I started this project.
+Since the awesome screenshot plugin **shearkhoto**, I, being Chinese, started an new implementation of JQUERY. Why do I do this? Frankly speaking, I had never use jQUERY before because I hate JQUERY badly. What is the reason of that? Because I am absolutely able to build such a damn library and fully realize the technical detail in jQUERY. But JQUERY is a giant of Front-End and has a huge number of believers, which inspired me and brought an idea — How about start an new one JQUERY that using my mind. After the idea came out, I started this project.
 
 I gave it a fucking cool name: **MingGeJs**.
 
